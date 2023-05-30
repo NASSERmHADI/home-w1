@@ -1,0 +1,78 @@
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\new project.csproj.AssemblyReference.cache
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\new project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\new project.AssemblyInfoInputs.cache
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\new project.AssemblyInfo.cs
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\new project.csproj.CoreCompileInputs.cache
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\new project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\new project.RazorAssemblyInfo.cache
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\new project.RazorAssemblyInfo.cs
+C:\Users\YBEDA\Desktop\new project\new project\new project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\YBEDA\Desktop\new project\new project\new project\bin\Debug\net6.0\appsettings.json
+C:\Users\YBEDA\Desktop\new project\new project\new project\bin\Debug\net6.0\new project.staticwebassets.runtime.json
+C:\Users\YBEDA\Desktop\new project\new project\new project\bin\Debug\net6.0\new project.exe
+C:\Users\YBEDA\Desktop\new project\new project\new project\bin\Debug\net6.0\new project.deps.json
+C:\Users\YBEDA\Desktop\new project\new project\new project\bin\Debug\net6.0\new project.runtimeconfig.json
+C:\Users\YBEDA\Desktop\new project\new project\new project\bin\Debug\net6.0\new project.dll
+C:\Users\YBEDA\Desktop\new project\new project\new project\bin\Debug\net6.0\ref\new project.dll
+C:\Users\YBEDA\Desktop\new project\new project\new project\bin\Debug\net6.0\new project.pdb
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\scopedcss\bundle\new project.styles.css
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\scopedcss\projectbundle\new project.bundle.scp.css
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\new project.dll
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\ref\new project.dll
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\new project.pdb
+C:\Users\YBEDA\Desktop\new project\new project\new project\obj\Debug\net6.0\new project.genruntimeconfig.cache
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\bin\Debug\net6.0\appsettings.json
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\bin\Debug\net6.0\new project.staticwebassets.runtime.json
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\bin\Debug\net6.0\new project.exe
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\bin\Debug\net6.0\new project.deps.json
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\bin\Debug\net6.0\new project.runtimeconfig.json
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\bin\Debug\net6.0\new project.dll
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\bin\Debug\net6.0\ref\new project.dll
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\bin\Debug\net6.0\new project.pdb
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.csproj.AssemblyReference.cache
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.AssemblyInfoInputs.cache
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.AssemblyInfo.cs
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.csproj.CoreCompileInputs.cache
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.RazorAssemblyInfo.cache
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.RazorAssemblyInfo.cs
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\scopedcss\bundle\new project.styles.css
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\scopedcss\projectbundle\new project.bundle.scp.css
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.dll
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\ref\new project.dll
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.pdb
+C:\Users\YBEDA\Desktop\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.genruntimeconfig.cache
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\bin\Debug\net6.0\appsettings.json
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\bin\Debug\net6.0\new project.staticwebassets.runtime.json
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\bin\Debug\net6.0\new project.exe
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\bin\Debug\net6.0\new project.deps.json
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\bin\Debug\net6.0\new project.runtimeconfig.json
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\bin\Debug\net6.0\new project.dll
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\bin\Debug\net6.0\ref\new project.dll
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\bin\Debug\net6.0\new project.pdb
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.csproj.AssemblyReference.cache
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.AssemblyInfoInputs.cache
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.AssemblyInfo.cs
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.csproj.CoreCompileInputs.cache
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.RazorAssemblyInfo.cache
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.RazorAssemblyInfo.cs
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\scopedcss\bundle\new project.styles.css
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\scopedcss\projectbundle\new project.bundle.scp.css
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.dll
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\ref\new project.dll
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.pdb
+C:\Users\YBEDA\Desktop\HW\‏‏new project - نسخة\new project\obj\Debug\net6.0\new project.genruntimeconfig.cache
